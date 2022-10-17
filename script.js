@@ -107,10 +107,10 @@
 
 
 //loop object
-let user = {
-    name: 'levani',
-    age: 27
-}
+//let user = {
+  //  name: 'levani',
+  //  age: 27
+//}
 
 // for (let key in user) {
 //     // console.log(key);
