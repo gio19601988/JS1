@@ -1,3 +1,4 @@
+//ცვლადის სტატუსის ამოღება
 let user = {
   firstname: "giorgi",
   lastname: "smith",
